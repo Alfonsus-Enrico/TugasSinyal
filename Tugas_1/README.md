@@ -1,7 +1,7 @@
 # Tugas 1 Sinyal: Git/Github & Python Preparation
 
 ### Set up Git/Github
-Repository untuk tugas 1 dapat di lihat disini 👉[🔴](https://github.com/Alfonsus-Enrico/TugasSinyal)
+Repository untuk tugas 1 dapat dilihat di sini 👉[🔴](https://github.com/Alfonsus-Enrico/TugasSinyal)
 
 ### A. IPython Console from Spyder showing Name and NRP
 Print Nama & NRP di console
