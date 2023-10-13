@@ -2,7 +2,7 @@
 
 Pada penugasan ini, konvolusi diterapkan tanpa menggunakan library seperti numpy, scipy, dan lain-lain. Berikut hasil syntax yang saya buat 
 <p align="center">
-<img src="Tugas_2/Convolution.png" /><br>
+<img src="Convolution.png" /><br>
   <b>Gambar 1.</b> Perbandingan hasil konvolusi menggunakan dan tanpa menggunakan numpy
 </p>
 
